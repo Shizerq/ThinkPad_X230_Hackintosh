@@ -34,7 +34,7 @@ My config for X230 based on xxx10101xxx's repo. Works with High Sierra and Mojav
 
 # What can work but I'm not sure:
 - FaceTime and iMessage - I followed the guide, but I still can't log in. Maybe I will have to contact Apple Support;
-- AirDrop (I'll check this when my iPhone will arrive and update).
+- AirDrop (I'll check this when my iPhone will arrive).
 
 # Bugs:
 - Hibernation;
