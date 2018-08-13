@@ -37,7 +37,6 @@ My config for X230 based on xxx10101xxx's repo. Works with High Sierra and Mojav
 - AirDrop (I'll check this when my iPhone will arrive).
 
 # Bugs:
-- Hibernation;
 - Boot animation.
 
 # Audio:
