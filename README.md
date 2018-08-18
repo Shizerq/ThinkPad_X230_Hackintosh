@@ -33,7 +33,7 @@ My config for X230 based on xxx10101xxx's repo. Works with High Sierra and Mojav
 - Fingerprint reader.
 
 # What can work but I'm not sure:
-- FaceTime and iMessage - I followed the guide, but I still can't log in. Maybe I will have to contact Apple Support;
+- FaceTime and iMessage - I still can't log in after following the guide, maybe I've done something wrong.
 - AirDrop (I'll check this when my iPhone will arrive).
 
 # Bugs:
