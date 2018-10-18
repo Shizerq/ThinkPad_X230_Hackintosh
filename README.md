@@ -26,15 +26,15 @@ My config for X230 based on xxx10101xxx's repo. Works with High Sierra and Mojav
 - Native Power Managment;
 - USB;
 - QE/CI.
+- AirDrop (You have to change Intel WI-FI to Broadcom one)
 
 # What's not working?
 - SD Card reader;
-- VGA port;
+- VGA port (doesn't exist in real Mac);
 - Fingerprint reader.
 
 # What can work but I'm not sure:
-- FaceTime and iMessage - I still can't log in after following the guide, maybe I've done something wrong.
-- AirDrop (I'll check this when my iPhone will arrive).
+- FaceTime and iMessage - It's possible that my Apple ID is blocked or it's fault of USB WI-FI
 
 # Bugs:
 - Boot animation.
