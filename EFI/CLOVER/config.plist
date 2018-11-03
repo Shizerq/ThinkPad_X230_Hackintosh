@@ -437,6 +437,24 @@
 				g/sPkJCQkJCQ
 				</data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Boot Logo Fix</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				0100007517
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>IOGraphicsFamily </string>
+				<key>Replace</key>
+				<data>
+				0100007417
+				</data>
+			</dict>
 		</array>
 	</dict>
 	<key>RtVariables</key>
